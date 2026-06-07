@@ -1,0 +1,6 @@
+{
+  "name": "SilentX Voice App",
+  "description": "Interactive and beautiful Indian voice party, live cabin radio, soundboard effects, local Room direct messaging, and secure customized wallet top-up client app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
